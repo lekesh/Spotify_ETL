@@ -11,5 +11,5 @@ curl -H "Authorization: Basic Yjk4NWQwMTA0NTQ2NDdlZWE3ZjcyY2Y1ZDc0ZjI4YTg6OWZkYT
 
 #spotify_token = 'BQBE7F9fYXmof3ri1pYSolJ-yCyLxWc62J3DsOKwEwrysaBhgPYL6aBP9Who0t1zRxjY0sg8cpNWECwDD3sLE8mYDR_gJo__2IittvfthLk-9N5eDZOzq48QEQP5XNcyqI75Z2X5WA_CPrCwEp8qwMqNZYqmvP9WEvBC'
 spotify_user_id = 'LeX'
-refresh_token = 'AQBRT-Vp5CsZW6FWI1oHYRxd-d9XS6kOuoOaMALxuel4Wzkf4ef6wu7vbbctKwcBPZw0qe7qQAS1RpiTDT6W-iHKlfoTzhoLz8EBGxdvyYl3nsnVUweaj9iLtp2cHOqboVg'
-base64_encoded = 'Yjk4NWQwMTA0NTQ2NDdlZWE3ZjcyY2Y1ZDc0ZjI4YTg6OWZkYTIxNmQ2NjZiNDcxNDhmZjMwMmM5NzEwOWM3MjM='
+refresh_token = Secrets.refresh_token
+base64_encoded = Secrets.base64_encoded
